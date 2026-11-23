@@ -1,0 +1,16 @@
+{
+	"neural_visor": [
+		{
+			"type": "icon_state",
+			"icon_state": "neural_visor",
+			"blend_mode": "overlay",
+			"color_ids": [1]
+		},
+		{
+			"type": "icon_state",
+			"icon_state": "neural_visor_light",
+			"blend_mode": "overlay",
+			"color_ids": [2]
+		}
+	]
+}
