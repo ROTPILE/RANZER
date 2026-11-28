@@ -1,15 +1,11 @@
-<p align="center">
-	<img width="500" height="150" alt="doppler_banner_shadow" src="https://github.com/user-attachments/assets/19afba8f-724e-4949-8712-0483459fd716" />
-</p>
-
-## Doppler Shift, a [Science Fantasy](https://en.wikipedia.org/wiki/Science_fantasy) fork of [/tg/station](https://github.com/tgstation/tgstation) for SS13 
+## RANZER (it's a working title), a [Science Fantasy](https://en.wikipedia.org/wiki/Science_fantasy) fork of [/tg/station](https://github.com/tgstation/tgstation) for SS13 
 
 [![resentment](.github/images/badges/built-with-resentment.svg)](.github/images/comics/131-bug-free.png) [![technical debt](.github/images/badges/contains-technical-debt.svg)](.github/images/comics/106-tech-debt-modified.png) [![forinfinityandbyond](.github/images/badges/made-in-byond.gif)](https://www.reddit.com/r/SS13/comments/5oplxp/what_is_the_main_problem_with_byond_as_an_engine/dclbu1a)
 
 | Website                   | Link                                           |
 |---------------------------|------------------------------------------------|
-| Website                   | [https://dopplershift13.com](https://dopplershift13.com)          |
-| Discord										| [discord.gg/doppler](discord.gg/doppler)			|
+| Website                   |          |
+| Discord										| 		|
 | Wiki                      | [https://wiki.dopplershift13.com/](https://wiki.dopplershift13.com/)   |
 
 
@@ -24,7 +20,6 @@ This is the codebase forked from the [/tg/station](https://github.com/tgstation/
 **Building tgstation in DreamMaker directly is deprecated and might produce errors**, such as `'tgui.bundle.js': cannot find file`.
 
 **[How to compile in VSCode and other build options](tools/build/README.md).**
-
 
 ## LICENSE
 
