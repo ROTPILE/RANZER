@@ -1,0 +1,6 @@
+#define RADIO_CHANNEL_TRAFFIC_CONTROL "Traffic Control"
+#define RADIO_KEY_TRAFFIC_CONTROL "t"
+#define RADIO_TOKEN_TRAFFIC_CONTROL ":t"
+#define RADIO_COLOR_TRAFFIC_CONTROL "#d84375"
+
+#define FREQ_TRAFFIC_CONTROL 1467 // intentionally tuneable
