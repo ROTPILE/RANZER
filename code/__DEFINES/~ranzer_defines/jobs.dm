@@ -1,1 +1,8 @@
+#define JOB_OPERATOR "Chief Operator"
+#define JOB_LIASON "Faculty Liason"
+#define JOB_LEAD_PILOT "Ranzer Leader"
 #define JOB_PILOT "Ranzer Pilot"
+#define JOB_HELM "Helm"
+#define JOB_TRAUMA_TEAM "Trauma Medic"
+#define JOB_MECHANIC "Mechanic"
+#define JOB_MANCIPLE "Manciple"

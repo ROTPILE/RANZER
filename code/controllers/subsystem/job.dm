@@ -146,9 +146,7 @@ SUBSYSTEM_DEF(job)
 	name_occupations = list()
 	type_occupations = list()
 
-// RANZER EDIT BEGIN
-	var/list/all_jobs = subtypesof(/datum/job/ranzer) // was: var/list/all_jobs = subtypesof(/datum/job)
-// RANZER EDIT END
+	var/list/all_jobs = subtypesof(/datum/job)
 	if(!length(all_jobs))
 		all_occupations = list()
 		joinable_occupations = list()
