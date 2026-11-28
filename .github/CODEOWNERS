@@ -5,19 +5,19 @@
 # to the same file or dir, add them to the end of under Multiple Owners
 
 # kannthus
-/.github/workflows/ @kannthus
-/SQL/ @kannthus
-/config/ @kannthus
+#/.github/workflows/ @kannthus
+#/SQL/ @kannthus
+#/config/ @kannthus
 
 # Maintainers
-/modular_doppler/ @00-Steven @carda-sometimesknownas-paxilmaniac @desertmote @TheOneAndOnlyCreeperJoe
-/code/ @00-Steven @carda-sometimesknownas-paxilmaniac @desertmote @TheOneAndOnlyCreeperJoe
+#/modular_doppler/ @00-Steven @carda-sometimesknownas-paxilmaniac @desertmote @TheOneAndOnlyCreeperJoe
+#/code/ @00-Steven @carda-sometimesknownas-paxilmaniac @desertmote @TheOneAndOnlyCreeperJoe
 # /sound/
 # /strings/
 
 # Maptainers
-/_maps/ @kannthus
+#/_maps/ @kannthus
 
 # Spritetainers (real)
-/icons/ @carda-sometimesknownas-paxilmaniac
+#/icons/ @carda-sometimesknownas-paxilmaniac
 
