@@ -35,6 +35,11 @@
 
 	job_flags = STATION_JOB_FLAGS | HEAD_OF_STAFF_JOB_FLAGS | JOB_ANTAG_PROTECTED
 	rpg_title = "Star Duke"
+	alt_titles = list(
+		JOB_OPERATOR,
+		"Handler",
+		"Unit Commander",
+	)
 
 
 /datum/job/ranzer/chief_operator/get_captaincy_announcement(mob/living/captain)

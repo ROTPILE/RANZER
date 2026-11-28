@@ -38,6 +38,11 @@
 
 	rpg_title = "Guild Questgiver"
 	job_flags = STATION_JOB_FLAGS | HEAD_OF_STAFF_JOB_FLAGS
+	alt_titles = list(
+		JOB_LIASON,
+		"Sophont Resources",
+		"Administrator",
+	)
 
 /datum/outfit/job/liason
 	name = "Faculty Liason"

@@ -44,6 +44,11 @@
 	)
 	rpg_title = "Corpse Runner"
 	job_flags = STATION_JOB_FLAGS
+	alt_titles = list(
+		JOB_TRAUMA_TEAM,
+		"Paramedic",
+		"Field Surgeon",
+	)
 
 
 /datum/outfit/job/trauma_team

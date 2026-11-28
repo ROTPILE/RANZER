@@ -8265,7 +8265,6 @@
 #include "modular_ranzer\jobs\code\manciple.dm"
 #include "modular_ranzer\jobs\code\mechanic.dm"
 #include "modular_ranzer\jobs\code\operator.dm"
-#include "modular_ranzer\jobs\code\roustabout.dm"
 #include "modular_ranzer\jobs\code\trauma_team.dm"
 #include "modular_ranzer\jobs\code\vanilla_job_override.dm"
 #include "modular_ranzer\jobs\code\pilots\helm.dm"

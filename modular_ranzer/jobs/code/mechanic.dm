@@ -48,6 +48,11 @@
 	)
 	rpg_title = "Crystallomancer"
 	job_flags = STATION_JOB_FLAGS
+	alt_titles = list(
+		JOB_MECHANIC,
+		"Mechatronic Engineer",
+		"Maintenance Specialist",
+	)
 
 /datum/outfit/job/mechanic
 	name = "Mechanic"

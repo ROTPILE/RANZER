@@ -30,6 +30,12 @@
 
 	rpg_title = "Tavern Chef"
 	job_flags = STATION_JOB_FLAGS
+	alt_titles = list(
+		JOB_COOK,
+		"Chef",
+		"Line Cook",
+		"Culinary Specialist",
+	)
 
 /datum/outfit/job/chef
 	name = "Chef"

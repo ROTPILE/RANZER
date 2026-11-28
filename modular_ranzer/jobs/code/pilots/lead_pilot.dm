@@ -26,6 +26,12 @@
 		/datum/job_department/security
 	)
 	job_flags = STATION_JOB_FLAGS
+	alt_titles = list(
+		JOB_LEAD_PILOT,
+		"Ranzer Ace",
+		"Lance Captain",
+		"Pilot Banneret",
+	)
 
 /datum/outfit/job/lead_pilot
 	name = "Ranzer Pilot Uniform"

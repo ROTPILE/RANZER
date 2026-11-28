@@ -29,6 +29,11 @@
 		)
 	rpg_title = "Steward"
 	job_flags = STATION_JOB_FLAGS
+	alt_titles = list(
+		JOB_MANCIPLE,
+		"Concierge",
+		"Quartermaster",
+	)
 
 /datum/outfit/job/manciple
 	name = "Manciple"

@@ -27,6 +27,12 @@
 		/datum/job_department/security
 	)
 	job_flags = STATION_JOB_FLAGS
+	alt_titles = list(
+		JOB_HELM,
+		"Shuttle Pilot",
+		"Dropship Pilot",
+		"Freighter Pilot",
+	)
 
 /datum/outfit/job/helm
 	name = "Helm Uniform"
